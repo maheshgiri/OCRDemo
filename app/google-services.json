@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776763971845",
+    "firebase_url": "https://testocr-cc6d4.firebaseio.com",
+    "project_id": "testocr-cc6d4",
+    "storage_bucket": "testocr-cc6d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776763971845:android:85ad7fbc5f2a9809",
+        "android_client_info": {
+          "package_name": "developergroup.app.ocrdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776763971845-ss43g1ak56f2ckagkpcq6fmhvdgjjgfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGGu5IHhSfeaBmibGPgMqLTJ6UzCXZnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776763971845-ss43g1ak56f2ckagkpcq6fmhvdgjjgfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
